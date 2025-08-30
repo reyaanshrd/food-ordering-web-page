@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-color: crimson
+}
+table,td,tr {
+    border:2px solid  black;
+    padding: 5px;
+    margin-bottom: 25px;
+    color: whitesmoke;
+    font-weight: 550; 
+}
+#entry_box {
+    width: 150px;
+    height: 50px;
+}
+#dropdown {
+    width: 150px;
+    height: 50px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    height: 55px;
+    width: 120px;
+    font-size: 20px;
+}
+
+h1,h2 {
+    color: antiquewhite;  
+}
